@@ -1,2 +1,2 @@
 # OpenAI-GPT-Templates
-Various python notebooks of different templates using the OpenAI API's, mostly the new assistants API. 
+Various python notebooks of templates for the OpenAI API's, mostly the new assistants API. 
